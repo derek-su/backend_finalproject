@@ -1,0 +1,6 @@
+version: '3'
+services:
+    finalproject:
+          image: ds959/finalproject
+          ports:
+              - "5000:5000"
